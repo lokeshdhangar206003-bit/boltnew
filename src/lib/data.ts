@@ -1,0 +1,37 @@
+export const SCHOOL = {
+  name: 'GC Genius Public School',
+  shortName: 'GC Genius',
+  tagline: 'Shaping Bright Futures',
+  city: 'Etawah',
+  state: 'Uttar Pradesh',
+  address: 'Civil Lines, Etawah, Uttar Pradesh 206001',
+  phonePrimary: '+91 94150 00000',
+  phoneSecondary: '+91 5678 123 456',
+  email: 'info@gcgeniusetawah.edu.in',
+  hours: 'Mon – Sat, 8:00 AM – 3:00 PM',
+  socials: [
+    { label: 'Facebook', href: '#' },
+    { label: 'Instagram', href: '#' },
+    { label: 'YouTube', href: '#' },
+    { label: 'Twitter', href: '#' },
+  ],
+};
+
+export const IMAGES = {
+  hero: 'https://images.pexels.com/photos/5147366/pexels-photo-5147366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  campusWalk: 'https://images.pexels.com/photos/8926848/pexels-photo-8926848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  buildingAlt: 'https://images.pexels.com/photos/14446732/pexels-photo-14446732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  classroom1: 'https://images.pexels.com/photos/5905554/pexels-photo-5905554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  classroom2: 'https://images.pexels.com/photos/5212342/pexels-photo-5212342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  classroom3: 'https://images.pexels.com/photos/8419491/pexels-photo-8419491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  classroom4: 'https://images.pexels.com/photos/8617941/pexels-photo-8617941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  scienceLab: 'https://images.pexels.com/photos/8471913/pexels-photo-8471913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  library: 'https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  library2: 'https://images.pexels.com/photos/9489917/pexels-photo-9489917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  sports: 'https://images.pexels.com/photos/8927012/pexels-photo-8927012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  sports2: 'https://images.pexels.com/photos/8941639/pexels-photo-8941639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  principal: 'https://images.pexels.com/photos/8423069/pexels-photo-8423069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  computerLab: 'https://images.pexels.com/photos/5530520/pexels-photo-5530520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  computerLab2: 'https://images.pexels.com/photos/5530484/pexels-photo-5530484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  graduation: 'https://images.pexels.com/photos/7972741/pexels-photo-7972741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+};
